@@ -1,0 +1,5 @@
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://192.168.1.11:5432/evalart-test-db  # R2DBC URL for PostgreSQL
+    username: user
+    password: user
